@@ -59,4 +59,4 @@ Made by Mack Oyler
 Please feel free to contact me if you need any further information:
 
 - [Email](mailto:mackoyler@gmail.com)
-- [Github Profile](https://github.com/MackOyler
+- [Github Profile](https://github.com/MackOyler)
