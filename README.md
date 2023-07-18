@@ -55,11 +55,11 @@ This project is licensed under MIT, for more information please visit [this webs
 
 ## Contribution
 
-Made by Wenwen Tian
+Made by Mack Oyler
 
 ## Questions?
 
 Please feel free to contact me if you need any further information:
 
-- [Email](mailto:wwtian9@gmail.com)
-- [Github Profile](https://github.com/joce1ynn)
+- [Email](mailto:mackoyler@gmail.com)
+- [Github Profile](https://github.com/MackOyler
