@@ -1,23 +1,13 @@
-# NoSQL: Social Network API
+# Social Network API
 
-## Table of Contents
-
-- [Description](#description)
-- [Technology](#Technology)
-- [Installation](#installation)
-- [Usage](#usage)
-- [License](#license)
-- [Contribution](#contribution)
-- [Questions](#questions)
+A Backend API DB for social networking. 
 
 ## Description:
 
-It's an API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list.
+I have created an API for a social network web app. Social media sites are always in need of data storage. This is where users can share their thoughts, react to friends’ thoughts, and create a friend list, among many other things that require data. 
 
-## Technology:
-
-Project is created with:
-
+## Technology Used:
+MERN
 - Javascript
 - Node.js
 - Express.js
@@ -40,23 +30,13 @@ After installing npm packages, the application will be invoked by using the foll
 npm start
 ```
 
-
-#### Insomnia Screenshot
-
-![Screenshot](./screenshot/insomnia.png)
-
-## License
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) <br>
-This project is licensed under MIT, for more information please visit [this website](https://opensource.org/licenses/MIT)
-
-## Contribution
+## Team:
 
 Made by Mack Oyler
 
 ## Questions?
 
-Please feel free to contact me if you need any further information:
+Please feel free to reach out if you need any further information. Contact me here:
 
 - [Email](mailto:mackoyler@gmail.com)
 - [Github Profile](https://github.com/MackOyler)
