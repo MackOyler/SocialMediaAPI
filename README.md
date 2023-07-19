@@ -7,12 +7,12 @@ A Backend API DB for social networking.
 I have created an API for a social network web app. Social media sites are always in need of data storage. This is where users can share their thoughts, react to friends’ thoughts, and create a friend list, among many other things that require data. 
 
 ## Technology Used:
-MERN
+
+
 - Javascript
 - Node.js
 - Express.js
 - MongoDB
-- Mongoose
 
 ## Installation
 
